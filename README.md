@@ -5,5 +5,5 @@
 
 [Connect to qwer-f](https://qwert-f.github.io/tutorial.html)
 
-# ![image](two.jpg"大理")
+# ![image](two.jpg)
 [![image]](https://cn.bing.com)
