@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>轮播图</title>
+    <style>
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        .slider {
+            width: 400px;
+            height: 225px;
+            margin: 200px auto 0;
+            overflow: hidden;
+        }
+
+        .bannar{
+            width: 1600px;
+            height: 225px;
+        }
+
+        .imgs {
+            display: inline-block;
+            width: 400px;
+            height: auto;
+        }
+
+        div img {
+            width: 400px;
+            height: 225px;
+        }
+        .bannar:hover{
+            margin-left: -400px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="slider">
+        <div class="bannar">
+            <div class="imgs">
+                <!-- <input type="text" id="img1"> -->
+                <img src="first.png" alt="none">
+            </div>
+            <div class="imgs">
+                <!-- <input type="text" id="img2"> -->
+                <img src="Kapa.png" alt="none">
+            </div>
+            <div class="imgs">
+                <!-- <input type="text" id="img3"> -->
+                <img src="kzpev.png" alt="none">
+            </div>
+            <div class="imgs">
+                <!-- <input type="text" id="img1"> -->
+                <img src="first.png" alt="none">
+            </div>
+        </div>
+    </div>
+    <div>
+        <label for="img1">1</label>
+        <label for="img2">2</label>
+        <label for="img3">3</label>
+    </div>
+</body>
+
+</html>
