@@ -30,8 +30,8 @@
 
 [donate by paypal](https://www.paypal.me/fiver1413)
 
+**打开支付宝**
 [支付宝](http://www.alipay.com/alipay/return_url.php)
-
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
 
-[扫码](https://qwert-f.github.io/ali.html)
+
