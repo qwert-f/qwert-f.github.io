@@ -10,6 +10,8 @@
  
  [slider animation](https://qwert-f.github.io/slider.html)
 
+ [donate by wechat](reward.png)
+
 如果你觉得有兴趣，也许你可以给我捐赠，一切都会被用在项目的完善上
 [donate by paypal](https://www.paypal.me/fiver1413)
  
