@@ -31,3 +31,5 @@
 [donate by paypal](https://www.paypal.me/fiver1413)
 
 [支付宝](http://www.alipay.com/alipay/return_url.php)
+
+[![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
