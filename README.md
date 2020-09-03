@@ -33,3 +33,5 @@
 [支付宝](http://www.alipay.com/alipay/return_url.php)
 
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
+
+[扫码](https://qwert-f.github.io/ali.html)
