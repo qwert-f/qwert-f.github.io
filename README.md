@@ -23,7 +23,7 @@
  [slider animation](https://qwert-f.github.io/slider.html)
 
 [donate by wechat](reward.png)
-[donate](https://pay.weixin.qq.com)
+[donate](wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
 <b> 注:</b>目前还没有解决直接扫码的功能
 
