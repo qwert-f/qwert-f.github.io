@@ -1,6 +1,12 @@
 # ![This is picture](first.png)
 # ![It is picture](two.jpg)
-		不知道你是否去过这个苍山洱海间的城市。如果你没有，也许你可以去一次，也许能给你带来一些情怀上的改变
+		不知道
+		你是否去过
+		这个苍山洱海间的城市
+		如果你没有
+		也许你可以去一次，
+		也许能给你带来一些
+		情怀上的改变
 
 [Connect to a new link](https://qwert-f.github.io/tutorial.html)
 
