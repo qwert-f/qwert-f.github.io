@@ -10,8 +10,9 @@
  
  [slider animation](https://qwert-f.github.io/slider.html)
 
- [donate by wechat](reward.png)
-*** 注:***目前还没有解决直接扫码的功能
+[donate by wechat](reward.png)
+
+<b> 注:</b>目前还没有解决直接扫码的功能
 
 
 如果你觉得有兴趣，也许你可以给我捐赠，一切都会被用在项目的完善上
