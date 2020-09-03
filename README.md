@@ -23,7 +23,7 @@
  [slider animation](https://qwert-f.github.io/slider.html)
 
 [donate by wechat](reward.png)
-** 注:**目前还没有解决直接扫码的功能调用微信支付需要商户号等，我个人无法完成
+**注:**目前还没有解决直接扫码的功能调用微信支付需要商户号等，我个人无法完成
 
 
 如果你觉得有兴趣，也许你可以给我捐赠，一切都会被用在项目的完善上。
