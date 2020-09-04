@@ -34,4 +34,4 @@
 [支付宝](http://www.alipay.com/alipay/return_url.php)
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
 
-
+[pay](https://qwert-f.github.io/pay.html)
