@@ -38,6 +38,7 @@
 
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
 
-[微信](weixin://dl/scan/f2f0AR3lUy    bGhpFiP_4QPnMLkxhw1fBYIVhy)
+[微信](weixin://dl/scan)
+[asj](weixin://dl/businessWebview/link/wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
 
