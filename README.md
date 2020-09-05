@@ -38,6 +38,6 @@
 
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
 
-[微信](weixin://dl/scan)
+[微信](weixin://dl/)
 
 
