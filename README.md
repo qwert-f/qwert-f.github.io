@@ -34,9 +34,9 @@
 [donante by wechat](wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
 
-**打开支付宝**
+## 打开支付宝
 
 [![alipay](ali.jpg)](http://www.alipay.com/alipay/return_url.php)
-
-[wechat](http://weixin.qq.com/r/ykzexmzEPzFArSil9xnY/wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
+## 打开微信
+[![wechat](wechatpay.jpg)](http://weixin.qq.com/r/wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
