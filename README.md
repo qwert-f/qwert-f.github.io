@@ -42,5 +42,5 @@
 
 [asj](weixin://dl/businessWebview/link/wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
-[wechat](https://wexin.qq.com/r/ykzexmzEPzFArSil9xnY)
+[wechat](http://weixin.qq.com/r/ykzexmzEPzFArSil9xnY)
 
