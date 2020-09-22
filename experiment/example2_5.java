@@ -2,7 +2,7 @@ package experiment;
 import java.util.*;
 
 
-class index {
+class example2_5 {
     public static void main(String args[]) {
         int start = 0,end,middle;
         int a[] = {12,45,67,89,123,-45,67};
