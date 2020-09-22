@@ -2,6 +2,7 @@ package experiment;
 
 import java.util.Scanner;
 
+// this method just need input a number for head,not all
 public class example3_5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

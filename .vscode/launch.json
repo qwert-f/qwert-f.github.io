@@ -8,7 +8,7 @@
             "type": "java",
             "name": "CodeLens (Launch) - index",
             "request": "launch",
-            "mainClass": "experiment.index",
+            "mainClass": "${workspaceFolder}/experiment/experiment/example3_5_1.class",
             "projectName": "java_c9cba870"
         },
         {
