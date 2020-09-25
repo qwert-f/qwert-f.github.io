@@ -29,6 +29,7 @@
 
 [donate by alipay](HTTPS://QR.ALIPAY.COM/FKX07110YIPM8ZTBOQNT33)
 
+好像是用不了
 [donante by wechat](wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
 
