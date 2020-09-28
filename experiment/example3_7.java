@@ -1,9 +1,9 @@
 package experiment;
 
-// summary the prime number within 100
+// summary the prime number within 900
 public class example3_7 {
     public static void main(String[] args) {
-        int i,sum = 0,count = 0; //initial copy is 1
+        int i,sum = 0,count = 0; //set loop counter
         for(int j=2;j<=900;j++){
             for(i=2;i<=j;i++){
                 if(j%i==0)
