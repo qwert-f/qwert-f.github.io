@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - example2_5",
+            "request": "launch",
+            "mainClass": "experiment.example2_5",
+            "projectName": "java_c9cba870"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - index",
             "request": "launch",
             "mainClass": "${workspaceFolder}/experiment/experiment/example3_5_1.class",
