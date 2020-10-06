@@ -28,6 +28,7 @@
 [donate by paypal](https://www.paypal.me/fiver1413)
 
 [donate by alipay](HTTPS://QR.ALIPAY.COM/FKX07110YIPM8ZTBOQNT33)
+[pay 1￥  by alipay](https://qr.alipay.com/fkx17885u8it06smo1rede3)
 
 好像是用不了
 
