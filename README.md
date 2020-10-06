@@ -28,6 +28,8 @@
 [donate by paypal](https://www.paypal.me/fiver1413)
 
 [donate by alipay](HTTPS://QR.ALIPAY.COM/FKX07110YIPM8ZTBOQNT33)
+
+**支付宝不支持通过解析设置了金额的收款码，链接付款**
 [pay 1￥  by alipay](https://qr.alipay.com/fkx17885u8it06smo1rede3)
 
 好像是用不了
