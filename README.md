@@ -36,7 +36,7 @@
 
 **自己研究了一下解析二维码，但是微信收款码解析出来的似乎好像不可以直接像微信扫一扫那样直接跳转到给我付款的界面。容我再研究研究哈**
 
-[donante by wechat](wxp://f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
+[donante by wechat](https://payapp.weixin.qq.com/qrpay/order/home2?key=idc_CHNDVI_KIMVbDNZIWN3zsUdtF7yCw--)
 
 
 ## 打开支付宝
