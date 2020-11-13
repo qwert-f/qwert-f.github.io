@@ -6,30 +6,114 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - example2_5",
-            "request": "launch",
-            "mainClass": "experiment.example2_5",
-            "projectName": "java_c9cba870"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - index",
-            "request": "launch",
-            "mainClass": "${workspaceFolder}/experiment/experiment/example3_5_1.class",
-            "projectName": "java_c9cba870"
-        },
-        {
-            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
-            "mainClass": "${workspaceFolder}/demo/demo.class"
+            "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-demo<java_c9cba870>",
+            "name": "Debug (Launch)-Animal<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Three<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "Three",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-demo<java_a424de8c>",
             "request": "launch",
             "mainClass": "demo.demo",
-            "projectName": "java_c9cba870"
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.E",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Shape<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.Shape",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.Test",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example2_5<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.example2_5",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example3_5<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.example3_5",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example3_5_1<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.example3_5_1",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example3_6<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.example3_6",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-example3_7<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "experiment.example3_7",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-hello<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E<java_a424de8c>(1)",
+            "request": "launch",
+            "mainClass": "test4_1.E",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-E<java_a424de8c>(2)",
+            "request": "launch",
+            "mainClass": "test4_2.E",
+            "projectName": "java_a424de8c"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B<java_a424de8c>",
+            "request": "launch",
+            "mainClass": "test4_3.B",
+            "projectName": "java_a424de8c"
         }
     ]
 }
