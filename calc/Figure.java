@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.util.*;
 
 public class Figure {
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		Calculate win = new Calculate();
 		Result show = new Result();
 		win.average(show);
