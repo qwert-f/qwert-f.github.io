@@ -6,9 +6,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch sqlTest",
+            "request": "launch",
+            "mainClass": "sqlTest",
+            "projectName": "java_c9cba870"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
-        },
+        }
     ]
 }
