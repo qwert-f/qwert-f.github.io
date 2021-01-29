@@ -1,4 +1,4 @@
-package hello;
+package example4.hello;
 
 import java.util.Scanner;
 import world.Dog;

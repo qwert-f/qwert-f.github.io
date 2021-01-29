@@ -1,4 +1,6 @@
-public class Application{
+package kaka;
+
+public class Application {
 	public static void main(String []argruments) {
 		Simulator simulator=new Simulator();
 		simulator.playSound(new Dog());

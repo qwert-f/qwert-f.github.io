@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Animal",
+            "request": "launch",
+            "mainClass": "Animal",
+            "projectName": "java_c9cba870"
+        },
+        {
+            "type": "java",
             "name": "Launch sqlTest",
             "request": "launch",
             "mainClass": "sqlTest",

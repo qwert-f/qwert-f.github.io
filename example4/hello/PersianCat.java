@@ -1,4 +1,4 @@
-package hello;
+package example4.hello;
 
 import hello.Cat;
 public class PersianCat extends Cat {

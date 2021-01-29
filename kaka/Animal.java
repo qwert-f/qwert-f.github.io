@@ -1,4 +1,6 @@
-public abstract class Animal{
+package kaka;
+
+public abstract class Animal {
 	public abstract void cry();
 	public abstract String getAnimalName(); 
 }

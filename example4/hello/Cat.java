@@ -1,4 +1,4 @@
-package hello;
+package example4.hello;
 
 public class Cat {
 	private double weight;

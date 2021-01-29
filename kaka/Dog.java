@@ -1,4 +1,6 @@
-public class Dog extends Animal{
+package kaka;
+
+public class Dog extends Animal {
 	public void cry() {
 		System.out.println("woof woof woof!");
 	}
