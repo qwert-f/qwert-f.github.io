@@ -1,7 +1,7 @@
 import java.sql.*;
 
 class sqlTest {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         Connection conn = null;
         Statement state = null;
         ResultSet rs = null;
@@ -15,9 +15,7 @@ class sqlTest {
                 System.out.println(rs.getInt("id") + "----" + rs.getString("name") + "----" +
                         rs.getString("author_id") );
             }
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        } catch (SQLException e) {
+        } catch (ClassNotFoundException | SQLException e) {
             e.printStackTrace();
         } finally {
             try {
