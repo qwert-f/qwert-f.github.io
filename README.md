@@ -47,3 +47,5 @@
 [![wechat](wechatpay.jpg)](http://weixin.qq.com/r/f2f0AR3lUybGhpFiP_4QPnMLkxhw1fBYIVhy)
 
 真他妈的恰不消了，熬了两个夜,从windows转战linux我还是选择了vscode
+
+删除Windows用户后关联密钥失效重新关联
